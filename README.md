@@ -4,7 +4,15 @@
 
 **Research Assistant** @ [MIT Humanitarian Supply Chain Lab](https://humanitarian.mit.edu/) <br>
 
-**Founder | Outreach Director** @ [Kite International](https://studentspoweringchange.org/) <br>
+**Co-Founder | Outreach Director** @ [Kite International](https://studentspoweringchange.org/) <br>
+
+**Mechanical Engineering Consultant** @ [The Technology Partnership](https://www.ttp.com/) <br>
+
+**WASH Project Director** @ [Cambridge Development Initiative](http://www.cambridgedevelopment.org/) <br>
+
+**Research Assistant** @ [Cambridge University VoxTox Group](https://www.hep.phy.cam.ac.uk/research/high-energy-physics-computational-radiotherapy/cambridge-voxtox-group) <br>
+
+**Training Director** @ [EcoHouse Initiative](http://www.ecohouseinitiative.org/) <br>
 
 ## 🎓 Education 🎓
 
