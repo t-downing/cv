@@ -2,6 +2,7 @@
 
 ## Projects
 
+<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="48">
 ![Alt text](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
 
 ### International Committee of the Red Cross: Market and supply chain modeling
