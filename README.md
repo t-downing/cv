@@ -2,7 +2,9 @@
 
 ## 💻 Work Experience 💻
 
-**Research Assistant**<br> @ [MIT Humanitarian Supply Chain Lab](https://humanitarian.mit.edu/) <br>
+**Research Assistant** @ [MIT Humanitarian Supply Chain Lab](https://humanitarian.mit.edu/) <br>
+
+**Founder | Outreach Director** @ [Kite International](https://studentspoweringchange.org/) <br>
 
 ## 🎓 Education 🎓
 
