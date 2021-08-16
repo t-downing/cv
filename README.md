@@ -2,8 +2,8 @@
 
 ## 🎓 Education 🎓
 
-### Massachusetts Institute of Technology 
-M.S. in Technology and Policy
+**Massachusetts Institute of Technology**
+M.S. in [Technology and Policy](https://tpp.mit.edu/)
 
 ### University of Cambridge
 MEng in Energy, Sustainability, and the Environment
