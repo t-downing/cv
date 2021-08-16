@@ -2,7 +2,7 @@
 
 ## 🎓 Education 🎓
 
-**Massachusetts Institute of Technology**
+**Massachusetts Institute of Technology** <br>
 M.S. in [Technology and Policy](https://tpp.mit.edu/)
 
 ### University of Cambridge
