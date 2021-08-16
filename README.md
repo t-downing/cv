@@ -4,7 +4,7 @@
 
 **Research Assistant** @ [MIT Humanitarian Supply Chain Lab](https://humanitarian.mit.edu/) <br>
 
-**Co-Founder | Outreach Director** @ [Kite International](https://studentspoweringchange.org/) <br>
+**Co-Founder & Outreach Director** @ [Kite International](https://studentspoweringchange.org/) <br>
 
 **Mechanical Engineering Consultant** @ [The Technology Partnership](https://www.ttp.com/) <br>
 
@@ -23,13 +23,7 @@ M.S. in [Technology and Policy](https://tpp.mit.edu/)
 MEng in [Energy, Sustainability, and the Environment](http://teaching.eng.cam.ac.uk/content/part-iib-engineering-area-requirements-energy-sustainability-and-environment)<br>
 BA in [Mechanical Engineering](http://teaching.eng.cam.ac.uk/node/801/)
 
-### International Committee of the Red Cross: Market and supply chain modeling
+## 🛠 Skills 🛠
 
-### USAID Uganda: Agriculture market system mapping
-
-## Other stuff
-
-#### USAID/Uganda Feed the Future
-
-### Kite International
+## 
 
