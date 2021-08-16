@@ -2,7 +2,7 @@
 
 ## 💻 Work Experience 💻
 
-**Research Assistant**<br> @ [MIT Humanitarian Supply Chain Lab](https://humanitarian.mit.edu/)
+**Research Assistant**<br> @ [MIT Humanitarian Supply Chain Lab](https://humanitarian.mit.edu/) <br>
 
 ## 🎓 Education 🎓
 
