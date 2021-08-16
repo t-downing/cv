@@ -2,11 +2,13 @@
 
 ## 🎓 Education 🎓
 
-**Massachusetts Institute of Technology** <br>
+**Massachusetts Institute of Technology**
+
 M.S. in [Technology and Policy](https://tpp.mit.edu/)
 
-### University of Cambridge
-MEng in Energy, Sustainability, and the Environment
+**University of Cambridge**
+
+MEng in [Energy, Sustainability, and the Environment](http://teaching.eng.cam.ac.uk/content/part-iib-engineering-area-requirements-energy-sustainability-and-environment)
 BA in Mechanical Engineering
 
 ### International Committee of the Red Cross: Market and supply chain modeling
