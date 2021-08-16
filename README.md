@@ -2,7 +2,12 @@
 
 ## 🎓 Education 🎓
 
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100">
+### Massachusetts Institute of Technology 
+M.S. in Technology and Policy
+
+### University of Cambridge
+MEng in Energy, Sustainability, and the Environment
+BA in Mechanical Engineering
 
 ### International Committee of the Red Cross: Market and supply chain modeling
 
